@@ -1,3 +1,3 @@
 fun main() {
-    println(Puzzle02().solve(readInput("puzzle02")))
+    println(Puzzle03().solve(readInput("puzzle03")))
 }
