@@ -31,4 +31,4 @@ build/
 ### Mac OS ###
 .DS_Store
 
-src/resources/**/*.txt
+src/main/resources/**/*.txt
